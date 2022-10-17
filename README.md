@@ -1,2 +1,2 @@
-# M5_Pyber_MatPlotLib
-Module 5: PyBer with Python MatPlotLib
+# M5_Pyber_Matplotlib
+Module 5: PyBer with Python Matplotlib
