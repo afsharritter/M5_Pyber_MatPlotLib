@@ -11,7 +11,7 @@ This project aims to identify and visualize the effect of city type (rural, subu
 ### Summary DataFrame
 
 The data was first summarized to show Rider, Driver, and Fare specifics for Rural, Suburban, and Urban city types. See Table 1: PyBer_Summary_DataFrame
-![Table 1](/M5_Challenge/Analysis/Table1_PyBer_Summary_DataFrame "Table 1: Summary DataFrame")
+![Table 1](/M5_Challenge/Analysis/Table1_PyBer_Summary_DataFrame.png "Table 1: Summary DataFrame")
 
 Urban city types had the greatest number of rides and drivers (1,625 and 2,405, respectively). Urban cities had the lowest fares, averaging $24.53 per ride and $16.57 per driver. Given the volume of trips taken, urban cities had the highest revenue among city types, with fares totaling $39,854.38. 
 
